@@ -293,7 +293,7 @@ select.form-control {
 
 select.form-control::-ms-expand {
 	/* IE 8 */
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
 	/* IE 5-7 */
 	filter:alpha(opacity=0);
 	/* Other IE */
